@@ -1,0 +1,6 @@
+framework module Pods_SwiftyJson_Work_SwiftyJson_WorkUITests {
+  umbrella header "Pods-SwiftyJson Work-SwiftyJson WorkUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
